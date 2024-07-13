@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: https://suprixsolution.in/about.html
+Disallow:/about.html
