@@ -1498,8 +1498,8 @@ class Akismet {
 
 	private static function bail_on_activation( $message, $deactivate = true ) {
 ?>
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en"> 
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <style>
